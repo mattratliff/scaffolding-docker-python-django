@@ -3,7 +3,7 @@ django==1.11.23
 django-localflavor==2.1
 django-toolbelt==0.0.1
 gunicorn==19.5.0
-httplib2==0.9.1
+httplib2==0.18.0
 psycopg2==2.7
 whitenoise==4.0b3
 assertpy==0.12
