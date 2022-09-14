@@ -2,8 +2,8 @@ Python-Django Scaffolding Template
 
 How to Run:
 
-- Build the contiainer:  "dc build"
-- Start the containers: "dc up -d"
+- Build the contiainer:  "docker-compose build"
+- Start the containers: "docker-compose up -d"
 - Create the model (log into the web container)
 >>> docker-compose exec web bash
 >>> python manage.py migrate
